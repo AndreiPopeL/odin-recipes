@@ -1,0 +1,36 @@
+* {
+    font-size: 18px;
+}
+body {
+    background-color: rgba(201, 76, 76, 0.3)
+}
+
+#titlul {
+    text-align: center;
+    color: aquamarine;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 40px;
+}
+
+.alineate {
+    color:cadetblue;
+
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 29px;
+}
+
+.descriere {
+    color:rgba(46, 67, 124, 0.3)
+}
+
+.subtitlu {
+    font-size: 25px;
+}
+
+.img {
+    width: 500px;
+    height: 500px;
+}
